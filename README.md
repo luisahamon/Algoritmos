@@ -6,6 +6,8 @@ Algoritmos estudados:
   **Algoritmos de Ordenação:**
 
     - Selection sort
+    
+    - Bubble sort
   
     - Insertion sort
   
