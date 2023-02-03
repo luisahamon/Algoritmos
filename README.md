@@ -14,3 +14,11 @@ Algoritmos estudados:
     - Merge sort
 
     - Quick sort
+
+ **Algoritmos de Busca**
+
+  -Busca Sequencial
+
+  -Busca Sequencial com Sentinela
+
+  -Busca Binária
